@@ -22,6 +22,7 @@ main{
 	flex-flow: row wrap;
 	justify-content: center;
 	align-content: center;
+	max-width: 1900px;
 }
 
 a{
